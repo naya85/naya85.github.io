@@ -59,7 +59,10 @@ body {
 body{
 	background: url(../images/background_texture.jpg);
 	}
-
+a{
+	color: #735f46;
+	text-decoration: none;
+}
 /*CSS MENU*/
 .logo {
 	width:100px;

@@ -6,6 +6,8 @@
       , counter = 0
       , timestamp = 0;
 
+    console.log(wrap, elements)
+
     wrap.bind('DOMMouseScroll mousewheel', function (e) {
       var target;
 

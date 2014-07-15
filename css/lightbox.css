@@ -5,14 +5,14 @@ body:after {
 }
 
 .lightboxOverlay {
-  position: absolute;
-  top: 0;
-  left: 0;
-  z-index: 9999;
   background-color: black;
-  filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=80);
-  opacity: 0.8;
   display: none;
+  filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=80);
+  left: 0;
+  opacity: 0.8;
+  position: fixed;
+  top: 0;
+  z-index: 9999;
 }
 
 .lightbox {
