@@ -59,10 +59,7 @@ body {
 body{
 	background: url(../images/background_texture.jpg);
 	}
-a{
-	color: #735f46;
-	text-decoration: none;
-}
+
 /*CSS MENU*/
 .logo {
 	width:100px;
@@ -363,13 +360,6 @@ a{
 }
 
 .box_web_4{
-	width:250px;
-	height: 400px;
-	float: left;
-	margin: 40px;
-}
-
-.box_web_5{
 	width:250px;
 	height: 400px;
 	float: left;
@@ -695,10 +685,6 @@ table{
 	height: 50px;
 }
 
-.feed{
-	height: 50px;
-	width: 50px;
-}
 
 .tel{
 	text-decoration: none;
